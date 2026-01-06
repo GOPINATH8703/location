@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Temple Details</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<a href="index.html" class="back">← Back</a>
+
+<div class="detail">
+
+  <div class="slider">
+    <img id="slideImg">
+    <button class="nav left" onclick="prevImg()">‹</button>
+    <button class="nav right" onclick="nextImg()">›</button>
+  </div>
+
+  <h2 id="name"></h2>
+  <p id="desc"></p>
+
+  <div class="location-box">
+    <p id="location"></p>
+    <a id="map" target="_blank" class="map-btn">📍 Open in Google Maps</a>
+    <iframe id="embed"></iframe>
+  </div>
+
+  <div class="switch">
+    <button onclick="prevTemple()">⬅ Previous</button>
+    <button onclick="nextTemple()">Next ➡</button>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

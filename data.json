@@ -1,0 +1,40 @@
+{
+  "temples": [
+    {
+      "id": "adikumbeswarar",
+      "name": "Adi Kumbeswarar Temple",
+      "desc": "Adi Kumbeswarar Temple is the main Shiva temple of Kumbakonam and one of the oldest temples in Tamil Nadu.",
+      "location": "Kumbakonam, Thanjavur District, Tamil Nadu",
+      "map": "https://maps.google.com/?q=Adi+Kumbeswarar+Temple",
+      "mapEmbed": "https://www.google.com/maps?q=Adi+Kumbeswarar+Temple&output=embed",
+      "images": [
+        "images/vaitheeswaran1.jpg",
+        "images/Vaitheeswaran_temple_(4).jpg"
+      ]
+    },
+    {
+      "id": "sarangapani",
+      "name": "Sarangapani Temple",
+      "desc": "Sarangapani Temple is a famous Vishnu temple and one of the Divya Desams.",
+      "location": "Kumbakonam, Thanjavur District, Tamil Nadu",
+      "map": "https://maps.google.com/?q=Sarangapani+Temple",
+      "mapEmbed": "https://www.google.com/maps?q=Sarangapani+Temple&output=embed",
+      "images": [
+        "images/sagangam1.webp",
+        "images/sanragam2.webp"
+      ]
+    },
+    {
+      "id": "mahamaham",
+      "name": "Darasuram Airavateswara Temple",
+      "desc": "Darasuram Airavateswara Temple is a famous Shiva temple and one of the Divya Desams.",
+      "location": "Darasuram, Thanjavur District, Tamil Nadu",
+      "map": "https://maps.google.com/?q=Mahamaham+Tank",
+      "mapEmbed": "https://www.google.com/maps?q=Mahamaham+Tank&output=embed",
+      "images": [
+        "images/darasuram-airavateswara.jpg",
+        "images/periyanayaki-amman-temple-darasuram-vintage-retro-effect-filtered-hipster-style-image-entrance-tower-gopura-against-sky-70877156.jpg"
+      ]
+    }
+  ]
+}
